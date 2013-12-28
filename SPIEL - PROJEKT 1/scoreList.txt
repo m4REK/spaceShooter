@@ -1,0 +1,10 @@
+1025:SpielerB
+180:SpielerA
+110:in
+18:MARKO
+10:SpielerD
+6:MARKO
+5:s
+5:sa
+4:SpielerC
+4:dsdcc
