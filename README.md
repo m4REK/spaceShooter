@@ -1,9 +1,9 @@
 Project-A // Media-Systems @ HAW-Hamburg
 
-2D side scroller Game: spaceShooter
+2D side scroll Game: spaceShooter
 
 Team-Mitglieder:
-Marko Vukadinovic
+Marko Vukadinovic,
 Johannes Bagge
 
 Prüfer:
